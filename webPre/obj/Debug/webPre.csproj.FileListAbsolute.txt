@@ -1,0 +1,5 @@
+C:\Users\luka\source\repos\webPre\obj\Debug\webPre.csproj.AssemblyReference.cache
+C:\Users\luka\source\repos\webPre\obj\Debug\webPre.Form1.resources
+C:\Users\luka\source\repos\webPre\obj\Debug\webPre.Properties.Resources.resources
+C:\Users\luka\source\repos\webPre\obj\Debug\webPre.csproj.GenerateResource.cache
+C:\Users\luka\source\repos\webPre\obj\Debug\webPre.csproj.CoreCompileInputs.cache
